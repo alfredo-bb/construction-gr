@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+neo4j
+anthropic
+python-dotenv
+PyPDF2
+httpx
+pytest
+python-multipart
+pycryptodome

@@ -9,6 +9,7 @@ import io
 import anthropic
 
 client = anthropic.Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
+print(f"ANTHROPIC_KEY: {os.getenv('ANTHROPIC_API_KEY')[:10]}...")
 
 load_dotenv()
 
