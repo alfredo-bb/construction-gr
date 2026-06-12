@@ -56,6 +56,8 @@ React + TypeScript on Netlify (visualization)
 ```
 ---
 
+![Architecture](docs/architecture.png)
+
 ## ✨ Features
 
 ### 🔍 Entity extraction with LLM
